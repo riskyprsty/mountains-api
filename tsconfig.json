@@ -3,7 +3,7 @@
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
     "outDir": "dist",
-    "rootDir": "./",
+    "rootDir": "./src",
     "target": "ESNext",
     "skipLibCheck": true,
     "strict": true,
@@ -15,10 +15,10 @@
     "baseUrl": "./",
     "paths": {
       "@controllers/*": [
-        "./server/controllers/*"
+        "./src/server/controllers/*"
       ],
       "@routes/*": [
-        "./server/routes/*"
+        "./src/server/routes/*"
       ],
       "@data/*": [
         "./data/*"
