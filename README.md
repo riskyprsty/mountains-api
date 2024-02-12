@@ -25,3 +25,5 @@ _GET_ `http://localhost:8080/mountain`
 _GET_ `http://localhost:8080/mountain/:name` 
 
 Ex: `http://localhost:8080/mountain/Gunung%20Semeru`
+
+## readme will be updated soon
