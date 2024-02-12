@@ -1,9 +1,11 @@
 ## mountains-api
 
 ### Installation
-First install the dependencies
+First install the dependencies and compile the typecsript project
 
-`npm install `
+`npm install`
+
+`npm run build`
 
 then scrape the mountains json data
 
