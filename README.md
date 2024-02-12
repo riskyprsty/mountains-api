@@ -2,13 +2,16 @@
 
 ### Installation
 First install the dependencies
-_npm install_
+
+`npm install `
 
 then scrape the mountains json data
-_npm run scrape_
+
+`npm run scrape`
 
 run development server
-_npm run dev_
+
+`npm run dev`
 
 ### Endpoints
 **Get All Mountain**
