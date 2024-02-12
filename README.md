@@ -1,10 +1,13 @@
 ## mountains-api
 
 ### Installation
+First install the dependencies
 _npm install_
 
+then scrape the mountains json data
 _npm run scrape_
 
+run development server
 _npm run dev_
 
 ### Endpoints
